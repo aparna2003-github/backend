@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+.image{
+    margin-left: 25%;
+    margin-top: 7%;
+}
+.paragraph{
+    float: right;
+    margin-top: 15%;
+    text-align: right;
+    margin-right: 6%;
+    line-height: 35px;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.p1{
+    font-size: 26px;
+}
+.p2{
+    font-size: 28px;
+}
+.p3{
+    font-size: 33px;
+}
+.p4{
+    font-size: 25px;
+}
+.p5{
+    font-size: 36px;
+}
+.p6{
+    font-size: 30px;
+}
+.p7{
+    font-size: 38px;
+}
+.logbutton{
+    background: black;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 6px 6px 6px 6px ;
+}
+.logbutton:hover{
+    background:#8D5524;
+    cursor: pointer;
+    transition-duration: 0.9s;
+}
+.detail{
+    margin-left: 55%;
+    margin-top: 5%;
+    font-size: 25px;
+}
+.para1{
+    font-size: 17px;
+    opacity: 0.5;
+}
+.f1{
+    width: 49%;
+    height: 26px;
+    border-radius: 3px 3px 3px 3px;
+    border-width: 1px;
+    color: gray;
+}
+.para2{
+    color: orange;
+    font-size: 15px;
+    opacity: 0.8;
+    margin-left: 32%;
+}
+.fp{
+    text-decoration: none;
+    color: orange;
+    opacity: 0.8;
+}
+.logbutton1{
+    background: orange;
+    color: white;
+    width: 50%;
+    height: 34px;
+    border-radius: 6px 6px 6px 6px ;
+}
+.logbutton1:hover{
+    background:rgb(58, 58, 58);
+    cursor: pointer;
+    transition-duration: 0.9s;
+}
+.su{
+    text-decoration: none;
+    color: orange;
+    opacity: 0.8;
+}
